@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArrayOfObject",
+            "request": "launch",
+            "mainClass": "ArrayOfObject",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch voulmeBox",
+            "request": "launch",
+            "mainClass": "voulmeBox",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch customclass",
+            "request": "launch",
+            "mainClass": "customclass",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch your",
+            "request": "launch",
+            "mainClass": "your",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch vararg",
+            "request": "launch",
+            "mainClass": "vararg",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch mul1",
+            "request": "launch",
+            "mainClass": "mul1",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch recu",
+            "request": "launch",
+            "mainClass": "recu",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumre",
+            "request": "launch",
+            "mainClass": "sumre",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch method1",
+            "request": "launch",
+            "mainClass": "method1",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch logic",
+            "request": "launch",
+            "mainClass": "logic",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch sorted",
+            "request": "launch",
+            "mainClass": "sorted",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversearray",
+            "request": "launch",
+            "mainClass": "reversearray",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch additionofarray",
+            "request": "launch",
+            "mainClass": "additionofarray",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch floatarray",
+            "request": "launch",
+            "mainClass": "floatarray",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch mularray",
+            "request": "launch",
+            "mainClass": "mularray",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparision",
+            "request": "launch",
+            "mainClass": "comparision",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch encrypt",
+            "request": "launch",
+            "mainClass": "encrypt",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch name",
+            "request": "launch",
+            "mainClass": "name",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch compound",
+            "request": "launch",
+            "mainClass": "compound",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch percentage",
+            "request": "launch",
+            "mainClass": "percentage",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch java",
+            "request": "launch",
+            "mainClass": "java",
+            "projectName": "JAVA_107ef8cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch userinput",
+            "request": "launch",
+            "mainClass": "userinput",
+            "projectName": "JAVA_107ef8cf"
+        }
+    ]
+}
